@@ -3,7 +3,7 @@ package fr.iut.editeur.commande.factory;
 import fr.iut.editeur.commande.*;
 import fr.iut.editeur.document.Document;
 
-public class CommandeFactory {
+public class  CommandeFactory {
 
     private static CommandeFactory instance;
 

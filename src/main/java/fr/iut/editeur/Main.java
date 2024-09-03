@@ -13,7 +13,11 @@ public class Main {
         Document document = new Document();
         CommandeInvoker invoker = CommandeInvoker.getInstance();
         CommandeFactory factory = CommandeFactory.getInstance();
-        while(true) {
+        Document test = new Document();
+        test.setTexte("bonjour");
+        test.majuscules(0, 4);
+        System.out.println(test);
+        /*while(true) {
             String input = scanner.nextLine();
             String[] parameters = input.split(";");
             String nomCommande = parameters[0];
@@ -24,6 +28,6 @@ public class Main {
             else {
                 System.err.println("Cette commande n'existe pas!");
             }
-        }
+        }*/
     }
 }
