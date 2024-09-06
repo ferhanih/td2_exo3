@@ -43,5 +43,8 @@ public class Document {
         } else {
             throw new IndexOutOfBoundsException("Les valeurs sont incorrectes");
         }
-    };
+    }
+    public void effacer(int debut, int fin){
+        remplacer(debut, fin, "");
+    }
 }
