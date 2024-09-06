@@ -44,7 +44,12 @@ public class Document {
             throw new IndexOutOfBoundsException("Les valeurs sont incorrectes");
         }
     }
+
     public void effacer(int debut, int fin){
         remplacer(debut, fin, "");
+    }
+    public void clear(){
+        this.texte = "";
+        ajouter("l");
     }
 }

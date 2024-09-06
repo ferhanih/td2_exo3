@@ -15,7 +15,7 @@ public class Main {
         CommandeFactory factory = CommandeFactory.getInstance();
         Document test = new Document();
         test.setTexte("bonjour");
-        test.majuscules(0, 0);
+        test.clear();
         System.out.println(test);
         /*while(true) {
             String input = scanner.nextLine();
