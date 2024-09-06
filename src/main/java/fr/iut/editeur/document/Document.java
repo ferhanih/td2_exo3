@@ -50,6 +50,5 @@ public class Document {
     }
     public void clear(){
         this.texte = "";
-        ajouter("l");
     }
 }
