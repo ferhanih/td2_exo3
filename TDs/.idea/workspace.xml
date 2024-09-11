@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="db8c91f8-4547-488f-ba93-b2644e75b8d4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../TD1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/allclasses-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/allpackages-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/copy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/element-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/fr/iut/editeur/Main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/fr/iut/editeur/class-use/Main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/fr/iut/editeur/commande/Commande.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/fr/iut/editeur/commande/CommandeAjouter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/fr/iut/editeur/commande/CommandeClear.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/fr/iut/editeur/commande/CommandeDocument.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/fr/iut/editeur/commande/CommandeEffacer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/fr/iut/editeur/commande/CommandeRemplacer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/fr/iut/editeur/commande/class-use/Commande.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/fr/iut/editeur/commande/class-use/CommandeAjouter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/fr/iut/editeur/commande/class-use/CommandeClear.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/fr/iut/editeur/commande/class-use/CommandeDocument.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/fr/iut/editeur/commande/class-use/CommandeEffacer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/fr/iut/editeur/commande/class-use/CommandeRemplacer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/fr/iut/editeur/commande/factory/CommandeFactory.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/fr/iut/editeur/commande/factory/CommandeMajuscules.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/fr/iut/editeur/commande/factory/class-use/CommandeFactory.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/fr/iut/editeur/commande/factory/class-use/CommandeMajuscules.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/fr/iut/editeur/commande/factory/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/fr/iut/editeur/commande/factory/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/fr/iut/editeur/commande/factory/package-use.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/fr/iut/editeur/commande/invoker/CommandeInvoker.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/fr/iut/editeur/commande/invoker/class-use/CommandeInvoker.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/fr/iut/editeur/commande/invoker/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/fr/iut/editeur/commande/invoker/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/fr/iut/editeur/commande/invoker/package-use.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/fr/iut/editeur/commande/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/fr/iut/editeur/commande/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/fr/iut/editeur/commande/package-use.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/fr/iut/editeur/document/Document.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/fr/iut/editeur/document/class-use/Document.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/fr/iut/editeur/document/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/fr/iut/editeur/document/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/fr/iut/editeur/document/package-use.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/fr/iut/editeur/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/fr/iut/editeur/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/fr/iut/editeur/package-use.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/index-all.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/legal/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/legal/jquery.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/legal/jqueryUI.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/link.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/member-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/module-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/overview-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/package-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/resources/glass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/resources/x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/script-dir/jquery-3.6.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/script-dir/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/script-dir/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/search-page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/tag-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/docs/type-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/qualitededeveloppement/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/qualitededeveloppement/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/qualitededeveloppement/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/qualitededeveloppement/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/qualitededeveloppement/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/qualitededeveloppement/qualitededeveloppement.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/qualitededeveloppement/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/src/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/src/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/src/main/java/fr/iut/editeur/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/src/main/java/fr/iut/editeur/commande/Commande.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/src/main/java/fr/iut/editeur/commande/CommandeAjouter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/src/main/java/fr/iut/editeur/commande/CommandeClear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/src/main/java/fr/iut/editeur/commande/CommandeDocument.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/src/main/java/fr/iut/editeur/commande/CommandeEffacer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/src/main/java/fr/iut/editeur/commande/CommandeRemplacer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/src/main/java/fr/iut/editeur/commande/factory/CommandeFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/src/main/java/fr/iut/editeur/commande/factory/CommandeMajuscules.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/src/main/java/fr/iut/editeur/commande/invoker/CommandeInvoker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/src/main/java/fr/iut/editeur/document/Document.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/target/classes/fr/iut/editeur/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/target/classes/fr/iut/editeur/commande/Commande.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/target/classes/fr/iut/editeur/commande/CommandeAjouter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/target/classes/fr/iut/editeur/commande/CommandeClear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/target/classes/fr/iut/editeur/commande/CommandeDocument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/target/classes/fr/iut/editeur/commande/CommandeEffacer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/target/classes/fr/iut/editeur/commande/CommandeRemplacer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/target/classes/fr/iut/editeur/commande/factory/CommandeFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/target/classes/fr/iut/editeur/commande/factory/CommandeMajuscules.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/target/classes/fr/iut/editeur/commande/invoker/CommandeInvoker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/target/classes/fr/iut/editeur/document/Document.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/target/maven-javadoc-plugin-stale-data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TD1/test" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2lunzBJGI3QsNuhg5CrjNvsZ7kv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/depinfo/qualitededeveloppement/TDs",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db8c91f8-4547-488f-ba93-b2644e75b8d4" name="Changes" comment="" />
+      <created>1726039090778</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726039090778</updated>
+      <workItem from="1726039092064" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
