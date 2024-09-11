@@ -1,0 +1,168 @@
+h1 {
+	display: flex;
+    justify-content: center;
+	align-items : center;
+	margin : auto ;
+	
+}
+fieldset {
+	background-color : white;
+}
+
+body {
+	margin: 70px;
+	padding : auto;
+	justify-content:center;
+	display : flex;
+	align-items : center;
+	background-image: url("file:///C:/Users/test/OneDrive/Bureau/SAE%206/image/fondformulaire.jpg")
+	}
+.bouton {
+	margin: auto;
+}
+
+form {
+	align-items : center;
+	justify-content : center;
+	display : flex;
+	flex-direction : column;
+	
+}
+
+textarea {
+	width : 40 %;
+	height : 50 %;
+	
+}
+.cercle {
+    display: flex;
+    flex-direction: column;
+    font-size: 1.8rem;
+    border: 4px solid;
+    border-image-slice: 1;	
+	padding: 0 80px 50px 40px;
+	background-color: white;
+}
+/** GIF TITRE **/
+
+#div-titre {
+    display: flex;
+    justify-content: center;display: flex;
+    justify-content: center;display: flex;
+    justify-content: center;
+}
+
+#gif-titre {
+    height: auto;
+    width: 100%;
+}
+
+nav {
+    display: flex;
+    padding: 0;
+	background-color : black;
+    justify-content: center;
+
+    top: 0;
+    height: auto;
+    position: sticky;
+    z-index: 99;
+}
+/* MENU DEROULANT */
+nav a {
+    display:block;
+    min-width: 120px;
+
+
+    padding: 0 40px 0 50px;
+    text-align: center;
+	/* case au milieu */
+    background-color: #13789d;
+    color: black;
+    text-decoration: none;
+    border-radius: 2px;
+	transition: .5s;
+	height: 36px;
+	line-height: 33px;
+
+}
+.submenu {
+    position: absolute;
+    display: none;
+    transition: all 300ms ease;
+}
+
+.submenu-parent:hover div.submenu {
+    background-color: white;
+    display: block;
+}
+
+nav a:hover {
+    color: white;
+    border-color: white;
+	background: #f43c80
+}
+/* ------------------ */
+/* ------------------ */
+
+/* MENU BURGER */
+ul {
+  display : none;
+  list-style-type: none;
+  margin: 30;
+  padding: 0;
+  width: 200px;
+  background-color: #f1f1f1;
+  left : 200em;
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #555;
+  color: white;
+}
+/* ------------- */
+
+h2 {
+	display : flex;
+	justify-content:center;
+}
+@media (max-width: 480px) { 
+	ul{display:block}
+	nav a {display:none}
+	
+ }
+ body {
+	 display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-bottom: 20px;
+ }
+article {
+	margin : 50px 50px 50px 50px;
+	padding : 10px 50px 50px 10px;
+}
+aside {
+	margin : 50px 50px 50px 50px;
+	padding : 10px 50px 50px 10px;
+}
+.parag {
+    display: flex;
+    flex-direction: column;
+    font-size: 1.3rem;
+    background: linear-gradient(180deg,  0%, #171717 100%);
+
+    border: 4px solid;
+    border-image-slice: 1;
+    border-image-source: linear-gradient(to left, #AF804F, #C8AD7F);
+
+}
+
+h1 {
+	margin : 40px
+}	
