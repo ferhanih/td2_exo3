@@ -18,7 +18,7 @@ jobs:
   		distribution : 'oracle'
   steps3: 
   	- name : execution des tests
-  	- uses : mvn test
+  	- run : mvn test
   	
   	
 	
