@@ -1,0 +1,15 @@
+#Se déclenche quand on push sur n'importe quelle branche
+name : executeTestsUnitaires
+
+on: push:
+	branches:
+	-'*'
+    
+
+jobs:
+  job1:
+  runs-on: ubuntu-latest
+  steps1:
+	
+  
+    ...
