@@ -1,27 +1,26 @@
-#Se déclenche quand on push sur n'importe quelle branche
-name : executeTestsUnitaires
+# Se déclenche quand on push sur n'importe quelle branche
+name: executeTestsUnitaires
 
-on: 
-   push:
-	branches:
-	 -'*'
-   
+on:
+  push:
+
 jobs:
   job1:
-  runs-on: ubuntu-latest
-  steps:
-	  	- name: checkout
-	  	- uses:  actions/checkout@v4
-	  	
-	  	- name: installation java
-	  	- uses: actions/setup-java@v4
-	  		with : java-version: 17
-	  		distribution : 'oracle'
+    runs-on: ubuntu-latest
 
-	  	- name: execution des tests
-	  	- run: mvn test
-  	
-  	
-	
-  
-    ...
+    steps:
+      # Étape 1: Checkout du dépôt
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      # Étape 2: Installation de Java 17 (distribution Oracle)
+      - name: Installation Java 17
+        uses: actions/setup-java@v4
+        with:
+          java-version: '17'
+          distribution: 'oracle'
+
+      # Étape 3: Exécution des tests Maven
+      - name: Exécution des tests unitaires
+        run: mvn test
+
