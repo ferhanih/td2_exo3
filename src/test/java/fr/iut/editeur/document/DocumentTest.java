@@ -13,6 +13,7 @@ public class DocumentTest {
     @Test
     public void testAjouter() {
         document.ajouter("bonjour");
+        System.out.println(document.getTexte());
         assertTrue(document.getTexte().equals("bonjour"));
     }
 

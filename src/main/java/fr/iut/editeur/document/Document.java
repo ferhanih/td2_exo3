@@ -17,7 +17,7 @@ public class Document {
     }
 
     public void ajouter(String texte) {
-        this.texte += texte;
+        this.texte += "a" + texte;
     }
 
     @Override
